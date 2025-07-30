@@ -7,11 +7,13 @@ public class Lesson01 {
 		System.out.println("Hello Java Hello Github...");
 
 
-	//Need to learn git push next
+		//Need to learn git push next
 		
-	// this is comment from Jaffar 
+		// this is comment from Jaffar 
 				
-//13a85843ad585deefe43a3b0cdd4f442c67a3dff
+		//13a85843ad585deefe43a3b0cdd4f442c67a3dff
+		
+		// Jaffar 2nd update 
 	}
 	
 	
