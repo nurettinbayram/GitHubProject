@@ -5,6 +5,7 @@ public class Lesson01 {
 	public static void main(String[] args) {
 		System.out.println("Hello Java Hello Github...");
 
+	//Need to learn git push next
 	}
 
 }
